@@ -1,0 +1,3 @@
+[submodule "anthill"]
+	path = anthill
+	url = https://github.com/defsan/anthill
