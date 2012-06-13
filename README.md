@@ -3,7 +3,7 @@
  #reinventbiz #anthill #comobile #gather #sentimetrics #sweetspot
 
 ### *Website* / *Workspace* / *Team name*
-**You | You're Mobile Co-working! | You're Awesome!**
+__You | You're Mobile Co-working! | You're Awesome!__
 * [anthill - do something big](http://getanthill.com) / [anthill](https://github.com/defsan/anthill) /
 * comobile.in / [co.mobile](https://github.com/comobile/reinventbiz/tree/master/co.mobile) / co.mobile
 * [Gather - Emotional Analytics](http://dribbble.com/shots/598371-Gather-Emotional-Analytics) / gather / The Intangibles
