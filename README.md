@@ -13,7 +13,7 @@ __You | You're Mobile Co-working! | You're Awesome!__
 * / loopool / The Incredibles
 * / protostar /
 * / purposecorps /
-* / [return on happiness](http://www.flickr.com/photos/jaycross/sets/72157630106416928/with/7362900176/)
+* / [return on happiness](http://www.flickr.com/photos/jaycross/sets/72157630106416928/with/7362900176/) /
 * / ripple /
 * / sentimetrics /
 * / skillcloud / Decision Icon
