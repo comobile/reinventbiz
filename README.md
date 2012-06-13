@@ -9,7 +9,7 @@ __You | You're Mobile Co-working! | You're Awesome!__
 * comobile.in / [co.mobile](https://github.com/comobile/reinventbiz/tree/master/co.mobile) / co.mobile
 * [Gather - Emotional Analytics](http://dribbble.com/shots/598371-Gather-Emotional-Analytics) / gather / The Intangibles
 * / loopool / The Incredibles
-* / protostgar /
+* / protostar /
 * / purposecorps /
 * / sentimetrics /
 * / skillcloud / Decision Icon
