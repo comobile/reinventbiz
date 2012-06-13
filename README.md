@@ -15,4 +15,5 @@
 * / sweetspot /
 
 ### *Fun n' Games*
+* [Biz Draw Something Olympics](https://github.com/comobile/reinventbiz/blob/master/co.mobile/lloydchang/BizDrawSomethingOlympics.jpg)
 * [Collaboration Survey Results](https://github.com/comobile/reinventbiz/blob/master/Collaboration_Survey_Results.png)
