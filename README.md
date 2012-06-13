@@ -1,6 +1,6 @@
 # Collaborate here at our Playful workspaces!
  Powered By You and #*yourProduct*
- #reinventbiz #comobile #gather #getanthill #sentimetrics #sweetspot
+ #reinventbiz #anthill #comobile #gather #sentimetrics #sweetspot
 
 ### [Wiki](https://github.com/comobile/reinventbiz/wiki)
 * [Library of Business Plans](https://github.com/comobile/reinventbiz/wiki/Library-of-Business-Plans)
