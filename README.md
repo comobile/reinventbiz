@@ -1,4 +1,4 @@
-# Welcome to our Collaborative & Playful workspaces!
+# Collaborate here, our Playful workspaces!
 ## Powered By You #reinventbiz #comobile #getanthill #sweetspot #*YourProduct*
 
 ### [Wiki](https://github.com/comobile/reinventbiz/wiki)
