@@ -3,10 +3,10 @@
 ### *Website* / *Workspace* / *Mission*
 __You | You're Mobile Co-working! | You're Awesome!__
 * [anthill - do something big](http://getanthill.com) / [The Ant Collective](https://github.com/defsan/anthill) / Employees feel small but want to think big. Platform to give visibility to employee ideas
-* breakout / Let the best ideas BreakOut! Open innovation platform. Tap employees' ideas
-* buycott / People want to be heard. Companies want to listen. Vote with $ for products that match your values
-* comobile.in / [co.mobile](https://github.com/comobile/reinventbiz/tree/master/co.mobile) / A thousand micro-actions can make a movement! Can we change biz one person, company, idea at time?
-* [Connectivities](https://stormy-mist-1765.herokuapp.com/) / Connectivities / Making business personal. Solving a tech, culture + process problem. Connect employees w similar interests
+* BreakOut! / Let the best ideas BreakOut! Open innovation platform. Tap employees' ideas
+* Buycott / People want to be heard. Companies want to listen. Vote with $ for products that match your values
+* [co.mobile](https://github.com/comobile/reinventbiz/tree/master/co.mobile) / A thousand micro-actions can make a movement! Can we change biz one person, company, idea at time?
+* [Connectivities](https://stormy-mist-1765.herokuapp.com/) / Making business personal. Solving a tech, culture + process problem. Connect employees w similar interests
 * Culture Spotting / Culture from the ground up. What's trending in my company's culture?
 * Fail Booth by Failure Academy / Companies and employees can learn from failures AND learn along the way to course correct in the future
 * [Gather - Emotional Analytics](http://dribbble.com/shots/598371-Gather-Emotional-Analytics) / Gather by The Intangibles / How to capture people's emotions at work? The Gather app. What are work relationships like and why?
