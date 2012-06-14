@@ -32,3 +32,4 @@ __You | You're Mobile Co-working! | You're Awesome!__
 ### [Libraries](https://github.com/comobile/reinventbiz/wiki)
 * [Business Plans](https://github.com/comobile/reinventbiz/wiki/Library-of-Business-Plans)
 * [Course Syllabuses](https://github.com/comobile/reinventbiz/wiki/Library-of-Course-Syllabuses)
+* [Hackathon](https://github.com/comobile/reinventbiz/wiki/Hackathon)
