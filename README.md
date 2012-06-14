@@ -18,7 +18,7 @@ __You | You're Mobile Co-working! | You're Awesome!__
 * RighTale / A consumer-driven, social demand aggregator. Consumer drives supply chain, what they want, way the want it
 * Ripple / Quantifying creative volunteerism. Helping companies look good + do good by offering volunteer opps to employees
 * Sentimetrics / Google Analytics for Feelings
-* Skill Cloud by Decision Icon / Matchmaking between skills, interests, needs within a company. Employees are so much more than their titles
+* SkillCloud by Decision Icon / Matchmaking between skills, interests, needs within a company. Employees are so much more than their titles
 * Socent by Casagora / Startups under pressure to maximize profit. Funders want to exit. Socent need long term $ - game will fund it
 * Sweetspot / Decentralizes branding and communications decisions. Gets employees, customers more involved in decision
 * Ten / Data gathering real time for organizations from customers, employees, etc.
