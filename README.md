@@ -5,7 +5,7 @@ __You | You're Mobile Co-working! | You're Awesome!__
 * [anthill - do something big](http://getanthill.com) / [The Ant Collective](https://github.com/defsan/anthill) / Employees feel small but want to think big. Platform to give visibility to employee ideas
 * BreakOut! / Let the best ideas BreakOut! Open innovation platform. Tap employees' ideas
 * Buycott / People want to be heard. Companies want to listen. Vote with $ for products that match your values
-* [co.mobile](https://github.com/comobile/reinventbiz/tree/master/co.mobile) / A thousand micro-actions can make a movement! Can we change biz one person, company, idea at time?
+* [co.mobile Presentation](https://github.com/comobile/reinventbiz/raw/master/hackathon/20_CO-MOBILE_1.pdf) / A thousand micro-actions can make a movement! Can we change biz one person, company, idea at time?
 * [Connectivities](https://stormy-mist-1765.herokuapp.com/) / Making business personal. Solving a tech, culture + process problem. Connect employees w similar interests
 * Culture Spotting / Culture from the ground up. What's trending in my company's culture?
 * Fail Booth by Failure Academy / Companies and employees can learn from failures AND learn along the way to course correct in the future
