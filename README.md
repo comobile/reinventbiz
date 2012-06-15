@@ -13,8 +13,8 @@ __You | You're Mobile Co-working! | You're Awesome!__
 * Loop / Measure whether companies are living their values. Employees, customers, and public can comment via dashboard
 * loopool by The Incredibles / Collaborative Relationship Management: Way to make companies operate more like open source. Diagnostic tool to catch "bugs"
 * Proto Star / Free, open transparent platform to find experts
-* Purpose Corps / Hire on basis of future potential, not just past performance. Align business strategy, employee passions
-* [Return on Happiness](http://www.flickr.com/photos/jaycross/sets/72157630106416928/with/7362900176/) / Tracking employee happiness
+* [Purpose Corps Photos](http://www.flickr.com/photos/brilliantink/sets/72157630065743323/) / Hire on basis of future potential, not just past performance. Align business strategy, employee passions
+* [Return on Happiness Photos](http://www.flickr.com/photos/jaycross/sets/72157630106416928/with/7362900176/) / Tracking employee happiness
 * RighTale / A consumer-driven, social demand aggregator. Consumer drives supply chain, what they want, way the want it
 * Ripple / Quantifying creative volunteerism. Helping companies look good + do good by offering volunteer opps to employees
 * Sentimetrics / Google Analytics for Feelings
