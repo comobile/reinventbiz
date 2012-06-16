@@ -1,0 +1,8 @@
+Vision: valuebuds are measured by
+. likes
+. pledges
+. bids by makers
+. products by makers
+. buys
+. rentals
+. interations
