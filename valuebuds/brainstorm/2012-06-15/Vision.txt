@@ -5,4 +5,4 @@ Vision: valuebuds are measured by
 . products by makers
 . buys
 . rentals
-. interations
+. iterations
